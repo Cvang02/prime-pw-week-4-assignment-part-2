@@ -1,0 +1,36 @@
+body {
+    background: tan; 
+}
+
+header {
+    background: orange;
+    border: 10px red;
+    border-style: groove;
+    text-align: center;
+}
+
+
+.info {
+    border: 10px solid orange;
+    border-style: groove;
+    padding: 9px;
+    display: block; 
+    text-align: center; 
+}
+
+h2 {
+    background: #ffc107;
+    border: 10px solid orange;
+    border-style: groove;
+}
+
+img {
+    border: 10px solid orange;
+    border-style: groove;
+}
+
+h3 {
+    background: #ffeb3b;
+    border: 10px solid orange;
+    border-style: groove;
+}
